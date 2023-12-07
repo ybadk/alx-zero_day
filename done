@@ -1,0 +1,8 @@
+#!/bin/bash
+mkdir bash c js
+touch c/c_is_fun.c js/main.js js/index.js
+touch bash/alx
+echo '#!/bin/bash' > bash/al* && echo 'echo "ALX"' >> bash/al*
+touch bash/school
+echo '#!/bin/bash' > bash/sch* && echo 'School'  >> bash/sch*
+
